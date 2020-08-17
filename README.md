@@ -1,5 +1,3 @@
-<h1 align="center"> 👋 </h1>
-
 ![](https://i.ibb.co/kQFFBKB/template.png)
 
 <p align="center">
@@ -9,6 +7,8 @@
 </p>
 
 
-I'm a software engineer at Sainsbury's Tech who loves all thing UI with a real passion for design systems and front-end performance. Ask me anytime about Lighhouse metrics! I also unironically love working with React, strange given my love of performance...
+👋 I'm a 💻 software engineer at Sainsbury's Tech who ♥ loves all thing UI with a real passion for design systems and front-end performance. ❔ Ask me anytime about 📈 Lighhouse metrics! I also unironically enjoy working with React, strange given my love of performance...
+
+![](https://github-readme-stats.vercel.app/api?username=andygirvan&count_private=true&show_icons=true&theme=dark)
 
 📫 How to reach me: <a href='https://www.twitter.com/andygirvan'>twitter.com/andygirvan</a>
